@@ -40,7 +40,12 @@ ISSS Rewards is a website created for ISSS to incentivize students to attend eve
 
 ## UI/UX Design
 
-
+[First Launch](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI1.png)
+[Login](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI2.png)
+[Point Screen](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI3.png)
+[Prize Screen](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI4.png)
+[Support Screen](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI5.png)
+[Profile Page](https://github.com/hassaannnn/ISSSRewards-public/blob/9bdcc227606bec8b23911d4962db143ca60171f5/UI6.png)
 
 
 
